@@ -39,3 +39,8 @@ The project aims to understand the vibration characteristics of a simplified UAV
 
 ## 8. Project Status
 Week 1 – Planning and Aeroelasticity Basics.
+
+## UAV Wing Cantilever Model
+
+![Cantilever Beam Model](../cantiliver%20beam.png)
+*Figure 1: Simplified Cantilever Model of a UAV Wing Showing Bending Deflection.*
